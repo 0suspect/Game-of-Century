@@ -1,0 +1,7 @@
+C:\Users\Белый Господин\source\repos\Game666\Game666\bin\Debug\Game666.exe.config
+C:\Users\Белый Господин\source\repos\Game666\Game666\bin\Debug\Game666.exe
+C:\Users\Белый Господин\source\repos\Game666\Game666\bin\Debug\Game666.pdb
+C:\Users\Белый Господин\source\repos\Game666\Game666\obj\Debug\Game666.csprojResolveAssemblyReference.cache
+C:\Users\Белый Господин\source\repos\Game666\Game666\obj\Debug\Game666.csproj.CoreCompileInputs.cache
+C:\Users\Белый Господин\source\repos\Game666\Game666\obj\Debug\Game666.exe
+C:\Users\Белый Господин\source\repos\Game666\Game666\obj\Debug\Game666.pdb
